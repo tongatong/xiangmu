@@ -1,0 +1,12 @@
+<!--components/data/index.wxml-->
+<view class="container">
+    <view class="index-container">
+      <view class="plain">NO.</view>
+      <view class="index">{{ _index }}</view>
+      <view class="line"></view>
+    </view>
+    <view class="date-container">
+      <text class="month">{{month}}</text>
+      <text class="year">{{year}}</text>
+    </view>
+</view>

@@ -1,0 +1,8 @@
+/* components/share/index.wxss */
+.container image{
+  width:29rpx;
+  height:29rpx;
+}
+.share{
+  padding-right:31rpx;
+}

@@ -1,0 +1,6 @@
+<!--components/share/index.wxml-->
+<view class="container">
+  <view class="share">
+    <image src="images/1_03.png"></image>
+  </view>
+</view>
